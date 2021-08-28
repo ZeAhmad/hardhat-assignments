@@ -19,7 +19,7 @@ async function main() {
 
   await zeeTockenC.deployed();
 
-  console.log("ZeeTockenA deployed to:", zeeTockenC.address);
+  console.log("ZeeTockenC deployed to:", zeeTockenC.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
